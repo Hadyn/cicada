@@ -66,6 +66,14 @@ DMq7On1paQAkXvzr6ywDBpMJbDZETkl9gZbzHn1Ji+9f3fANrqU+5kZ1su2OReQf
 
 - Section 4 body contains a 7 on [page 10](ky2khlqdf7qdznac.onion/10.jpg). It is followed by a single rune.
 
+### Contractions
+
+Below is a list of possible contractions and their location.
+
+- Section 2, page 4, line 7, 4 runes.
+- Section 10, page 35, line 3, 3 runes.
+- Section 12, page 41, line 9, 4 runes.
+
 ### Punctuation
 
 | Purpose     | Count | Arrangement |
@@ -89,6 +97,7 @@ It's important to note that there is punctuation that does not appear in `133` b
 - Section 3 body contains no other punctuation besides spaces.\*
 - Section 4 header does not end with correct punctuation.
 - Section 9 body contains no other punctuation besides spaces.\*
+- Section 10 subsection body on page 37 is missing ending period.
 - Section 11 body contains no other punctuation besides spaces.\*
 - Section 12 header does not end with the correct punctuation.
 - Section 13 body contains no other punctuation besides spaces.
