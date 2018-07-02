@@ -14,19 +14,25 @@
 | 9  | [33.jpg](ky2khlqdf7qdznac.onion/33.jpg) | [33.jpg](ky2khlqdf7qdznac.onion/33.jpg) |
 | 10 | [33.jpg](ky2khlqdf7qdznac.onion/33.jpg) | [39.jpg](ky2khlqdf7qdznac.onion/39.jpg) |
 | 11 | [39.jpg](ky2khlqdf7qdznac.onion/39.jpg) | [39.jpg](ky2khlqdf7qdznac.onion/39.jpg) |
-| 12 | [40.jpg](ky2khlqdf7qdznac.onion/39.jpg) | [53.jpg](ky2khlqdf7qdznac.onion/39.jpg) |
+| 12 | [40.jpg](ky2khlqdf7qdznac.onion/40.jpg) | [53.jpg](ky2khlqdf7qdznac.onion/53.jpg) |
 | 13 | [54.jpg](ky2khlqdf7qdznac.onion/54.jpg) | [55.jpg](ky2khlqdf7qdznac.onion/55.jpg) |
 | 14 | [56.jpg](ky2khlqdf7qdznac.onion/56.jpg) | [56.jpg](ky2khlqdf7qdznac.onion/56.jpg) |
 | 15 | [57.jpg](ky2khlqdf7qdznac.onion/57.jpg) | [57.jpg](ky2khlqdf7qdznac.onion/57.jpg) |
 
 ## Anomalies
 
-- Page 8 header does not end with correct punctuation.
+- Page 8 [Section 4]() header does not end with correct punctuation.
+- Page 39 [Section 11]() text body contains no other punctuation besides spaces.
+- Page 40 [Section 12]() header does not end with the correct punctuation.
 - Page 54-55 text body contains no other punctuation besides spaces.
 
 ## Punctuation
 
-| Purpose | Count | Arrangement |
-|---------|-------|-------------|
-| Space   | 1     | 1           |
-| Period  | 4     | 1-2-1       |
+| Purpose     | Count | Arrangement |
+|-------------|-------|-------------|
+| Space       | 1     | 1           |
+| Unknown 	  | 3     | 2-1         |
+| Period      | 4     | 1-2-1       |
+| Sub-Section | 10    | 3-4-3       |
+| Section     | 13	  | 4-5-4		|
+| Unknown     | 23    | 4-5-5-5-4   |
