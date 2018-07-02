@@ -1,4 +1,6 @@
-## Sections
+## 131
+
+### Sections
 
 | #  | Start                                   | End                                     |
 |----|-----------------------------------------|-----------------------------------------|
@@ -19,19 +21,22 @@
 | 14 | [56.jpg](ky2khlqdf7qdznac.onion/56.jpg) | [56.jpg](ky2khlqdf7qdznac.onion/56.jpg) |
 | 15 | [57.jpg](ky2khlqdf7qdznac.onion/57.jpg) | [57.jpg](ky2khlqdf7qdznac.onion/57.jpg) |
 
-## Anomalies
+### Observations
 
-- Section 3 text body contains no other punctuation besides spaces.\*
+- Section 4 body contains a 7 on [page 10](ky2khlqdf7qdznac.onion/10.jpg). It is followed by a single rune.
+
+### Anomalies
+
+- Section 3 body contains no other punctuation besides spaces.\*
 - Section 4 header does not end with correct punctuation.
-- Section 4 text body contains a 7 on [page 10 line 8](ky2khlqdf7qdznac.onion/10.jpg). It is followed by a single rune.
-- Section 9 text body contains no other punctuation besides spaces.\*
-- Section 11 text body contains no other punctuation besides spaces.\*
+- Section 9 body contains no other punctuation besides spaces.\*
+- Section 11 body contains no other punctuation besides spaces.\*
 - Section 12 header does not end with the correct punctuation.
-- Section 13 text body contains no other punctuation besides spaces.
+- Section 13 body contains no other punctuation besides spaces.
 
 *\*Sections are short enough where these anomalies may be trivial.*
 
-## Punctuation
+### Punctuation
 
 | Purpose     | Count | Arrangement |
 |-------------|-------|-------------|
@@ -41,3 +46,10 @@
 | Sub-Section | 10    | 3-4-3       |
 | Section     | 13	  | 4-5-4		|
 | Unknown     | 23    | 4-5-5-5-4   |
+
+It's important to note that there is punctuation that does not appear in `133` but does in the Warning/Intus page(s). Those are:
+
+| Purpose     | Count | Arrangement |
+|-------------|-------|-------------|
+| Unknown 	  | 2     | 2           | 
+| Section     | 11    | 3-5-3       |
