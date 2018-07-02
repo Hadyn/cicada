@@ -21,15 +21,15 @@
 
 ## Anomalies
 
-- Section 3 text body contains no other punctuation besides spaces.&
+- Section 3 text body contains no other punctuation besides spaces.\*
 - Section 4 header does not end with correct punctuation.
 - Section 4 text body contains a 7 on [page 10 line 8](ky2khlqdf7qdznac.onion/10.jpg). It is followed by a single rune.
-- Section 9 text body contains no other punctuation besides spaces.&
-- Section 11 text body contains no other punctuation besides spaces.&
+- Section 9 text body contains no other punctuation besides spaces.\*
+- Section 11 text body contains no other punctuation besides spaces.\*
 - Section 12 header does not end with the correct punctuation.
 - Section 13 text body contains no other punctuation besides spaces.
 
-*& Sections are short enough where these anomalies may be trivial.*
+*\*Sections are short enough where these anomalies may be trivial.*
 
 ## Punctuation
 
