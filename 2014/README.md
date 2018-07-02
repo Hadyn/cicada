@@ -1,3 +1,44 @@
+## message.txt.asc
+
+Below are the counts of spaces at the start or end of a line. It should be noted that sentences
+that continue on the same line in all Cicada messages have two spaces after the period. The missing
+prime in the sequence is 19. 
+
+```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Hello.  Your enlightenment awaits you.__ // 2
+___										 // 3
+_____ky2khlqdf7qdznac.onion_______		 // 5,7
+___________								 // 11
+We look forward to hearing from you.
+_____________							 // 13
+_________________						 // 17
+Good luck._______________________		 // 23
+_____________________________			 // 29
+3301
+_______________________________			 // 31
+______________________________________	 // 37
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQIcBAEBAgAGBQJTO88vAAoJEBgfAeV6NQkPEfsQAI0jGcmBaQr2AGGr1/ic839I
+fc58EyVNLgWs6Aox0/Dc2Tj8dXOxc0sBNWY98tICIy2T0Vbpf1VF65nFs+cVcxXI
+pXIU5X0O3XKRfxequIZQQUnt4elLIfFAIgrXbE9N7K5qkD47xg4kaYkPQh7/mDBa
+NBVHsLkw8bbLUo7lBtv5VFHTeTikSnT3m7FsoSHl5WlsY9WvITO5VcYd48jFbBSS
+P9Uk7v7cg1ohWpDB0BiYUTfOVxXYuZpnFiR6vAADP5KkY/qrFF7wrpYbhSmageId
+Qcxyc/dajUTlwK7dl+OwAJn4XRPceBPMjW9SbCr33y1C3ijCuxn06penu0KnUyge
+yYjyedXg11UPb/B6eT+hwAOPg/DLDTQ57QOQlGOX19lB56iZbHKuglQZUZ5kJq54
+dTobWhi6FBtwu+QLnJCz2SASLCuKDIWFkwSoYro/F9Zlo7b0UUO2IOkcKw7tKzq9
+uyPtBDQayCSIIHJhVjAtNiVFjNe+TcBf1VppAGY/7jfUfwxJ7Sfbv5Jwll+6MDYr
+YdsnJBZjhLuoxFyr9g4TF0OTXmxT+TyAZ4qoItu4C0bcEncBcfLJz+J74X1upsZl
+DMq7On1paQAkXvzr6ywDBpMJbDZETkl9gZbzHn1Ji+9f3fANrqU+5kZ1su2OReQf
+++CO13gAUF4WohKip4mC
+=VAo/
+-----END PGP SIGNATURE-----
+```
+
 ## 131
 
 ### Sections
