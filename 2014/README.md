@@ -66,17 +66,6 @@ DMq7On1paQAkXvzr6ywDBpMJbDZETkl9gZbzHn1Ji+9f3fANrqU+5kZ1su2OReQf
 
 - Section 4 body contains a 7 on [page 10](ky2khlqdf7qdznac.onion/10.jpg). It is followed by a single rune.
 
-### Anomalies
-
-- Section 3 body contains no other punctuation besides spaces.\*
-- Section 4 header does not end with correct punctuation.
-- Section 9 body contains no other punctuation besides spaces.\*
-- Section 11 body contains no other punctuation besides spaces.\*
-- Section 12 header does not end with the correct punctuation.
-- Section 13 body contains no other punctuation besides spaces.
-
-*\*Sections are short enough where these anomalies may be trivial.*
-
 ### Punctuation
 
 | Purpose     | Count | Arrangement |
@@ -94,3 +83,14 @@ It's important to note that there is punctuation that does not appear in `133` b
 |-------------|-------|-------------|
 | Unknown 	  | 2     | 2           | 
 | Section     | 11    | 3-5-3       |
+
+#### Anomalies
+
+- Section 3 body contains no other punctuation besides spaces.\*
+- Section 4 header does not end with correct punctuation.
+- Section 9 body contains no other punctuation besides spaces.\*
+- Section 11 body contains no other punctuation besides spaces.\*
+- Section 12 header does not end with the correct punctuation.
+- Section 13 body contains no other punctuation besides spaces.
+
+*\*Sections are short enough where these anomalies may be trivial.*
